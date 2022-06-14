@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Age](https://img.shields.io/badge/age-21-blue)
+![Age](https://img.shields.io/badge/age-20-blue)
 [![Living](https://img.shields.io/badge/Living-Hanoi%2C%20Vietnam-blue)](https://en.wikipedia.org/wiki/Hanoi)
 [![Learning](https://img.shields.io/badge/Learning%20at-National%20Economics%20University-blue)](https://en.neu.edu.vn/)
 
