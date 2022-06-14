@@ -6,9 +6,9 @@
 
 
 <p float='left'>
-<img src= 'https://github-readme-stats.vercel.app/api?username=khoa2181&show_icons=true&theme=radical' width="400">
+<img src= 'https://github-readme-stats.vercel.app/api?username=khoa2181&show_icons=true&theme=radical'>
 &nbsp;  
-<img src= 'https://github-readme-stats.vercel.app/api/top-langs/?username=khoa2181&layout=compact&theme=radical&langs_count=8' width="300"/>
+<img src= 'https://github-readme-stats.vercel.app/api/top-langs/?username=khoa2181&layout=compact&theme=radical&langs_count=8'>
 </p>
 
 <!--
