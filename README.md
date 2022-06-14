@@ -5,7 +5,11 @@
 [![Learning](https://img.shields.io/badge/Learning%20at-National%20Economics%20University-blue)](https://en.neu.edu.vn/)
 
 
-[![Windard's github stats](https://github-readme-stats.vercel.app/api?username=khoa2181&show_icons=true)](https://github.com/khoa2181)
+<p float='left'>
+<img src= 'https://github-readme-stats.vercel.app/api?username=khoa2181&show_icons=true&theme=radical' width="400">
+&nbsp;  
+<img src= 'https://github-readme-stats.vercel.app/api/top-langs/?username=khoa2181&layout=compact&theme=radical&langs_count=8' width="300"/>
+</p>
 
 <!--
 **khoa2181/khoa2181** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
